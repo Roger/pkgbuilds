@@ -4,5 +4,6 @@
 !.gitignore
 !PKGBUILD
 !/README.rst
+!*.install
 *src/
 *pkg/

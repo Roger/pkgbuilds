@@ -1,0 +1,8 @@
+*
+!*/
+!.gitattributes
+!.gitignore
+!PKGBUILD
+!/README.rst
+*src/
+*pkg/
